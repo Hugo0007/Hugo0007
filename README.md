@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/209246542?v=4" alt="Ugochukwu Okoronkwo" width="140" align="right" style="border-radius:50%">
+
 # Hi, I'm Ugochukwu Okoronkwo (Hugoooo) 👋
 
 **AI Automation Specialist | Claude Code + No Code Systems Builder | Founder, U-go Support Hub**

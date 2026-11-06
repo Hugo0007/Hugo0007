@@ -7,7 +7,7 @@
 I design and deploy AI automation systems for SaaS and service businesses, then train the teams to run them inside the context of their own work. Translate. Build. Teach.
 
 📍 Port Harcourt, Nigeria · Working globally, fully remote
-🌐 [ugo-landing.vercel.app](https://ugo-landing.vercel.app)
+🌐 [hugosignal.org](https://hugosignal.org)
 
 ---
 
@@ -55,7 +55,7 @@ I design and deploy AI automation systems for SaaS and service businesses, then 
 📧 ugochukwuokoronkwo01@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/ugochukwuokoronkwo)
 🐦 [X: @HugobossSleek](https://x.com/HugobossSleek)
-🌐 [U-go Support Hub](https://ugo-landing.vercel.app)
+🌐 [Hugosignal](https://hugosignal.org)
 
 ---
 
